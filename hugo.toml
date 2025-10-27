@@ -57,3 +57,8 @@ pagination.pagerSize = 10
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+# Caches
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
