@@ -1,0 +1,59 @@
+baseURL = 'https://eliobou.github.io/'
+languageCode = 'en-us'
+title = 'eliobou'
+theme = 'PaperMod'
+
+# Pagination
+pagination.pagerSize = 10
+
+# Activation de la recherche
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  # Description du site
+  description = "Mood and tech tutorials"
+  author = "eliobou"
+  
+  # Mode sombre par défaut
+  defaultTheme = "auto"  # auto, light, dark
+  
+  # Afficher le temps de lecture
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  
+  # Page d'accueil
+  [params.homeInfoParams]
+    Title = "eliobou"
+    Content = "Mood & Tech"
+
+  # Liens sociaux
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/eliobou"
+
+# Menu
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+  
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 30
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
