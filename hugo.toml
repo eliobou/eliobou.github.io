@@ -6,6 +6,8 @@ theme = 'PaperMod'
 # Pagination
 pagination.pagerSize = 10
 
+favicon = "/favicon.ico"
+
 # Activation de la recherche
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -15,6 +17,8 @@ pagination.pagerSize = 10
   description = "Mood and tech tutorials"
   author = "eliobou"
   
+  apple_touch_icon = "/apple-touch-icon.png"
+
   # Mode sombre par défaut
   defaultTheme = "auto"  # auto, light, dark
   
@@ -35,6 +39,10 @@ pagination.pagerSize = 10
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/eliobou"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/eliott-bouchez"
 
 # Menu
 [menu]
