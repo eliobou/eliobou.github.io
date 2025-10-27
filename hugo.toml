@@ -33,7 +33,7 @@ favicon = "/favicon.ico"
   # Page d'accueil
   [params.homeInfoParams]
     Title = "eliobou"
-    Content = "Mood & Tech"
+    Content = "mood & tech"
 
   # Liens sociaux
   [[params.socialIcons]]
