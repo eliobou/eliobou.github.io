@@ -6,8 +6,16 @@
     <description>Recent content on eliobou</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Manage My Todolist with AI</title>
+      <link>http://localhost:1313/posts/todolist-management/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/todolist-management/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always had a complicated relationship with todo lists. You know the drill: you start with good intentions, add tasks as they come up, and then&amp;hellip; nothing. Tasks pile up, priorities blur, and before you know it, you&amp;rsquo;re looking at a 50-item list where everything feels equally urgent and equally impossible. Eventually, you just stop looking at it altogether.&lt;/p&gt;
+&lt;p&gt;For years, I cycled through this pattern. I&amp;rsquo;d try a new system, feel productive for a week or two, then watch it slowly decay into chaos. The problem wasn&amp;rsquo;t the tools or my motivation. It was that I had no real method to keep things under control and no way to see what I was actually accomplishing.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Fixing WireGuard Subnet Conflicts: Why Your VPN Won&#39;t Route Traffic</title>
       <link>http://localhost:1313/posts/wireguard-subnet-conflicts/</link>

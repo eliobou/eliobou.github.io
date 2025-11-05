@@ -44,6 +44,11 @@ favicon = "/favicon.ico"
     name = "linkedin"
     url = "https://linkedin.com/in/eliott-bouchez"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Menu
 [menu]
   [[menu.main]]
