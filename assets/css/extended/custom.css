@@ -1,0 +1,5 @@
+/* Réduire l'espace au-dessus du titre de la page */
+.first-entry {
+    margin: var(--gap) 0 var(--gap) 0;
+    min-height: 50px;
+}
