@@ -44,6 +44,10 @@ favicon = "/favicon.ico"
     name = "linkedin"
     url = "https://linkedin.com/in/eliott-bouchez"
 
+  [[params.socialIcons]]
+    name = "printables"
+    url = "https://www.printables.com/@eliobou"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
