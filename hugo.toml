@@ -61,8 +61,8 @@ favicon = "/favicon.ico"
     weight = 10
   
   [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Projects"
+    url = "/projects/"
     weight = 20
   
   [[menu.main]]
