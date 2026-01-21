@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Networking on eliobou</title>
-    <link>http://localhost:1313/tags/networking/</link>
+    <link>https://eliobou.github.io/tags/networking/</link>
     <description>Recent content in Networking on eliobou</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eliobou.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixing WireGuard Subnet Conflicts: Why Your VPN Won&#39;t Route Traffic</title>
-      <link>http://localhost:1313/posts/wireguard-subnet-conflicts/</link>
+      <link>https://eliobou.github.io/posts/wireguard-subnet-conflicts/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wireguard-subnet-conflicts/</guid>
+      <guid>https://eliobou.github.io/posts/wireguard-subnet-conflicts/</guid>
       <description>&lt;p&gt;You&amp;rsquo;ve spent time setting up WireGuard on your Raspberry Pi, the connection shows as active, you see traffic in the WireGuard interface—but when you try to ping or access anything on your home network, nothing works. &lt;strong&gt;WireGuard is setup but I can&amp;rsquo;t access anything&lt;/strong&gt;. This frustrating situation is often caused by a subnet conflict that&amp;rsquo;s invisible at first glance.&lt;/p&gt;
 &lt;h2 id=&#34;understanding-the-problem&#34;&gt;Understanding the Problem&lt;/h2&gt;
 &lt;p&gt;When your VPN won&amp;rsquo;t route traffic despite being &amp;ldquo;connected,&amp;rdquo; the issue is usually that &lt;strong&gt;your current network and your home network use the same IP subnet&lt;/strong&gt;. For example, if both networks use &lt;code&gt;192.168.1.0/24&lt;/code&gt;, your device doesn&amp;rsquo;t know whether &lt;code&gt;192.168.1.23&lt;/code&gt; refers to a local device or one back home through the VPN.&lt;/p&gt;</description>

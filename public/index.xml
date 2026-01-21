@@ -2,34 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>eliobou</title>
-    <link>http://localhost:1313/</link>
+    <link>https://eliobou.github.io/</link>
     <description>Recent content on eliobou</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jan 2026 19:01:20 +0100</lastBuildDate>
+    <atom:link href="https://eliobou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Your Apple Device Shows iCloud Private Relay Errors on Pi-hole and How to Fix It</title>
+      <link>https://eliobou.github.io/posts/pihole-icloud-private-relay/</link>
+      <pubDate>Wed, 21 Jan 2026 19:01:20 +0100</pubDate>
+      <guid>https://eliobou.github.io/posts/pihole-icloud-private-relay/</guid>
+      <description>&lt;p&gt;Apple&amp;rsquo;s iCloud Private Relay is a privacy feature available to iCloud+ subscribers. When enabled, it encrypts and routes Safari traffic through
+two separate relays :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The first relay (operated by Apple) sees your IP but &lt;strong&gt;not the destination domain.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The second relay (operated by a trusted third party) sees the destination domain but &lt;strong&gt;not your original IP address.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This way no single party can see both your identity and the websites you visit. It also hides DNS queries from the local network.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How I Manage My Todolist with AI</title>
-      <link>http://localhost:1313/posts/todolist-management/</link>
+      <link>https://eliobou.github.io/posts/todolist-management/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/todolist-management/</guid>
+      <guid>https://eliobou.github.io/posts/todolist-management/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always had a complicated relationship with todo lists. You know the drill: you start with good intentions, add tasks as they come up, and then&amp;hellip; nothing. Tasks pile up, priorities blur, and before you know it, you&amp;rsquo;re looking at a 50-item list where everything feels equally urgent and equally impossible. Eventually, you just stop looking at it altogether.&lt;/p&gt;
 &lt;p&gt;For years, I cycled through this pattern. I&amp;rsquo;d try a new system, feel productive for a week or two, then watch it slowly decay into chaos. The problem wasn&amp;rsquo;t the tools or my motivation. It was that I had no real method to keep things under control and no way to see what I was actually accomplishing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fixing WireGuard Subnet Conflicts: Why Your VPN Won&#39;t Route Traffic</title>
-      <link>http://localhost:1313/posts/wireguard-subnet-conflicts/</link>
+      <link>https://eliobou.github.io/posts/wireguard-subnet-conflicts/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wireguard-subnet-conflicts/</guid>
+      <guid>https://eliobou.github.io/posts/wireguard-subnet-conflicts/</guid>
       <description>&lt;p&gt;You&amp;rsquo;ve spent time setting up WireGuard on your Raspberry Pi, the connection shows as active, you see traffic in the WireGuard interface—but when you try to ping or access anything on your home network, nothing works. &lt;strong&gt;WireGuard is setup but I can&amp;rsquo;t access anything&lt;/strong&gt;. This frustrating situation is often caused by a subnet conflict that&amp;rsquo;s invisible at first glance.&lt;/p&gt;
 &lt;h2 id=&#34;understanding-the-problem&#34;&gt;Understanding the Problem&lt;/h2&gt;
 &lt;p&gt;When your VPN won&amp;rsquo;t route traffic despite being &amp;ldquo;connected,&amp;rdquo; the issue is usually that &lt;strong&gt;your current network and your home network use the same IP subnet&lt;/strong&gt;. For example, if both networks use &lt;code&gt;192.168.1.0/24&lt;/code&gt;, your device doesn&amp;rsquo;t know whether &lt;code&gt;192.168.1.23&lt;/code&gt; refers to a local device or one back home through the VPN.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://eliobou.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://eliobou.github.io/projects/</guid>
       <description>My projects</description>
     </item>
   </channel>

@@ -2,80 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on eliobou</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://eliobou.github.io/tags/</link>
     <description>Recent content in Tags on eliobou</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jan 2026 19:01:20 +0100</lastBuildDate>
+    <atom:link href="https://eliobou.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Devices</title>
+      <link>https://eliobou.github.io/tags/apple-devices/</link>
+      <pubDate>Wed, 21 Jan 2026 19:01:20 +0100</pubDate>
+      <guid>https://eliobou.github.io/tags/apple-devices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DNS Filtering</title>
+      <link>https://eliobou.github.io/tags/dns-filtering/</link>
+      <pubDate>Wed, 21 Jan 2026 19:01:20 +0100</pubDate>
+      <guid>https://eliobou.github.io/tags/dns-filtering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ICloud Private Relay</title>
+      <link>https://eliobou.github.io/tags/icloud-private-relay/</link>
+      <pubDate>Wed, 21 Jan 2026 19:01:20 +0100</pubDate>
+      <guid>https://eliobou.github.io/tags/icloud-private-relay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Troubleshooting</title>
+      <link>https://eliobou.github.io/tags/network-troubleshooting/</link>
+      <pubDate>Wed, 21 Jan 2026 19:01:20 +0100</pubDate>
+      <guid>https://eliobou.github.io/tags/network-troubleshooting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pi-Hole</title>
+      <link>https://eliobou.github.io/tags/pi-hole/</link>
+      <pubDate>Wed, 21 Jan 2026 19:01:20 +0100</pubDate>
+      <guid>https://eliobou.github.io/tags/pi-hole/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ai</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://eliobou.github.io/tags/ai/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://eliobou.github.io/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>http://localhost:1313/tags/automation/</link>
+      <link>https://eliobou.github.io/tags/automation/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/automation/</guid>
+      <guid>https://eliobou.github.io/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Chatgpt</title>
-      <link>http://localhost:1313/tags/chatgpt/</link>
+      <link>https://eliobou.github.io/tags/chatgpt/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chatgpt/</guid>
+      <guid>https://eliobou.github.io/tags/chatgpt/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/tags/productivity/</link>
+      <link>https://eliobou.github.io/tags/productivity/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/productivity/</guid>
+      <guid>https://eliobou.github.io/tags/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Todoist</title>
-      <link>http://localhost:1313/tags/todoist/</link>
+      <link>https://eliobou.github.io/tags/todoist/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/todoist/</guid>
+      <guid>https://eliobou.github.io/tags/todoist/</guid>
       <description></description>
     </item>
     <item>
       <title>Workflow</title>
-      <link>http://localhost:1313/tags/workflow/</link>
+      <link>https://eliobou.github.io/tags/workflow/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/workflow/</guid>
+      <guid>https://eliobou.github.io/tags/workflow/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>http://localhost:1313/tags/networking/</link>
+      <link>https://eliobou.github.io/tags/networking/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/networking/</guid>
+      <guid>https://eliobou.github.io/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Troubleshooting</title>
-      <link>http://localhost:1313/tags/troubleshooting/</link>
+      <link>https://eliobou.github.io/tags/troubleshooting/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/troubleshooting/</guid>
+      <guid>https://eliobou.github.io/tags/troubleshooting/</guid>
       <description></description>
     </item>
     <item>
       <title>Vpn</title>
-      <link>http://localhost:1313/tags/vpn/</link>
+      <link>https://eliobou.github.io/tags/vpn/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vpn/</guid>
+      <guid>https://eliobou.github.io/tags/vpn/</guid>
       <description></description>
     </item>
     <item>
       <title>Wireguard</title>
-      <link>http://localhost:1313/tags/wireguard/</link>
+      <link>https://eliobou.github.io/tags/wireguard/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wireguard/</guid>
+      <guid>https://eliobou.github.io/tags/wireguard/</guid>
       <description></description>
     </item>
   </channel>

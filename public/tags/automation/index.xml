@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Automation on eliobou</title>
-    <link>http://localhost:1313/tags/automation/</link>
+    <link>https://eliobou.github.io/tags/automation/</link>
     <description>Recent content in Automation on eliobou</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eliobou.github.io/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Manage My Todolist with AI</title>
-      <link>http://localhost:1313/posts/todolist-management/</link>
+      <link>https://eliobou.github.io/posts/todolist-management/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/todolist-management/</guid>
+      <guid>https://eliobou.github.io/posts/todolist-management/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always had a complicated relationship with todo lists. You know the drill: you start with good intentions, add tasks as they come up, and then&amp;hellip; nothing. Tasks pile up, priorities blur, and before you know it, you&amp;rsquo;re looking at a 50-item list where everything feels equally urgent and equally impossible. Eventually, you just stop looking at it altogether.&lt;/p&gt;
 &lt;p&gt;For years, I cycled through this pattern. I&amp;rsquo;d try a new system, feel productive for a week or two, then watch it slowly decay into chaos. The problem wasn&amp;rsquo;t the tools or my motivation. It was that I had no real method to keep things under control and no way to see what I was actually accomplishing.&lt;/p&gt;</description>
     </item>
