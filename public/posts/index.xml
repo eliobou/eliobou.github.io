@@ -4,10 +4,18 @@
     <title>Posts on eliobou</title>
     <link>https://eliobou.github.io/posts/</link>
     <description>Recent content in Posts on eliobou</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jan 2026 19:01:20 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 17:53:28 +0100</lastBuildDate>
     <atom:link href="https://eliobou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rebooting a Firestick Remotely Over the Network</title>
+      <link>https://eliobou.github.io/posts/firestick-network-rebooter/</link>
+      <pubDate>Wed, 04 Mar 2026 17:53:28 +0100</pubDate>
+      <guid>https://eliobou.github.io/posts/firestick-network-rebooter/</guid>
+      <description>&lt;p&gt;You&amp;rsquo;re away from home, hotel room, ready to watch a show. You open your streaming app and get a &amp;ldquo;&lt;strong&gt;maximum streams reached&lt;/strong&gt;&amp;rdquo; error. The Firestick in your living room has been sitting idle all day with a session still open. Nobody&amp;rsquo;s home to unplug it and you are stuck.&lt;/p&gt;
+&lt;p&gt;This problem can happen to everyone with a subscription (Netflix, IPTV, &amp;hellip;) and is very frustrating. That&amp;rsquo;s how I solved it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why Your Apple Device Shows iCloud Private Relay Errors on Pi-hole and How to Fix It</title>
       <link>https://eliobou.github.io/posts/pihole-icloud-private-relay/</link>
