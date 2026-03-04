@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eliobou.github.io/tags/adb/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/tags/docker/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/tags/firestick/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/tags/ios-shortcuts/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/tags/iptv/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/posts/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/tags/raspberry-pi/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/posts/firestick-network-rebooter/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
+    <loc>https://eliobou.github.io/tags/</loc>
+    <lastmod>2026-03-04T17:53:28+01:00</lastmod>
+  </url><url>
     <loc>https://eliobou.github.io/tags/apple-devices/</loc>
     <lastmod>2026-01-21T19:01:20+01:00</lastmod>
   </url><url>
@@ -11,9 +41,6 @@
     <loc>https://eliobou.github.io/tags/dns-filtering/</loc>
     <lastmod>2026-01-21T19:01:20+01:00</lastmod>
   </url><url>
-    <loc>https://eliobou.github.io/</loc>
-    <lastmod>2026-01-21T19:01:20+01:00</lastmod>
-  </url><url>
     <loc>https://eliobou.github.io/tags/icloud-private-relay/</loc>
     <lastmod>2026-01-21T19:01:20+01:00</lastmod>
   </url><url>
@@ -21,12 +48,6 @@
     <lastmod>2026-01-21T19:01:20+01:00</lastmod>
   </url><url>
     <loc>https://eliobou.github.io/tags/pi-hole/</loc>
-    <lastmod>2026-01-21T19:01:20+01:00</lastmod>
-  </url><url>
-    <loc>https://eliobou.github.io/posts/</loc>
-    <lastmod>2026-01-21T19:01:20+01:00</lastmod>
-  </url><url>
-    <loc>https://eliobou.github.io/tags/</loc>
     <lastmod>2026-01-21T19:01:20+01:00</lastmod>
   </url><url>
     <loc>https://eliobou.github.io/categories/tutorials/</loc>
